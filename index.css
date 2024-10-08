@@ -1,0 +1,14 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 1000%;
+    background-color: black;
+}
+
+a
+{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
